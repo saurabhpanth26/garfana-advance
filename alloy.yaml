@@ -1,0 +1,4 @@
+alloy:
+  image: alloy/otel-collector
+  ports:
+    - "4317:4317"  
